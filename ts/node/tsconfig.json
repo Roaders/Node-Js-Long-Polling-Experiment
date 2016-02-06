@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "diagnostics": true
+  },
+  "files": [
+    "server.ts",
+    "../../typings/main.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

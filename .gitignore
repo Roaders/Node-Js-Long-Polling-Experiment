@@ -1,0 +1,4 @@
+node_modules/
+typings/
+ts/node/*.js.*
+ts/node/server.js

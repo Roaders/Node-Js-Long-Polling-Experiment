@@ -1,0 +1,19 @@
+{
+  "name": "NodeLongPolling",
+  "version": "1.0.0",
+  "description": "Trying out long polling in node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "typescript"
+  ],
+  "author": "Giles Roadnight",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^1.7.5",
+    "typings": "^0.6.6"
+  }
+}
